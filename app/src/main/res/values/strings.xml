@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="not_permission">Разрешение не предоставлено</string>
+    <string name="storage">Хранилище</string>
+    <string name="no_file_found">ФАЙЛ НЕ НАЙДЕН</string>
+    <string name="documents">Документы</string>
+</resources>
